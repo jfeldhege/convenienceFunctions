@@ -1,0 +1,14 @@
+Package: convenienceFunctions
+Title: A collection of convenient functions
+Version: 0.1
+Authors@R: 
+    person(given = "Johannes",
+           family = "Feldhege",
+           role = c("aut", "cre"),
+           email = "johannes.feldhege@med.uni-heidelberg.de",
+           comment = c(ORCID = "0000-0002-4665-5235"))
+Description: What the package does (one paragraph).
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
