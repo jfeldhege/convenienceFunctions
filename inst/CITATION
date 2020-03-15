@@ -1,15 +1,12 @@
 citHeader("To cite convenienceFunctions in publications use:")
 
 citEntry(
-  entry    = "Article",
-  title    = ,
-  author   = ,
-  journal  = ,
-  year     = ,
-  volume   = ,
-  number   = ,
-  pages    = ,
-  url      = ,
+  entry    = "manual",
+  title    = "convenienceFunctions: A Collection of convenience functions",
+  author   = person(given = "Johannes",
+                    family = "Feldhege"),
+  year     = 2020,
+  url      = "https://github.com/jfeldhege/convenienceFunctions",
   textVersion = paste(
 
   )
