@@ -2,7 +2,7 @@ citHeader("To cite convenienceFunctions in publications use:")
 
 citEntry(
   entry    = "manual",
-  title    = "convenienceFunctions: A Collection of convenience functions",
+  title    = "convenienceFunctions: A Collection of functions for convenience",
   author   = person(given = "Johannes",
                     family = "Feldhege"),
   year     = 2020,

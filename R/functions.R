@@ -65,3 +65,18 @@ set_new_chapter <- function(){
     rstudioapi::insertText(strrep("-", nchars - context_col))
   }
 }
+
+
+#' Convert Unix Timestamps (UTC) to Date
+#'
+#' @param uts a numeric vector containing one or more unix timestamps
+#' @param tz The timezone
+#'
+#' @return A character vector
+#' @export
+#'
+#' @examples
+
+convert_uts <- function(uts, tz ="Europe/Berlin") {
+  format(as.POSIXct(uts, origin = "1970-01-01"), "%d.%m.%Y")
+}
