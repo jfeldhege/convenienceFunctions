@@ -8,6 +8,6 @@ citEntry(
   year     = 2020,
   url      = "https://github.com/jfeldhege/convenienceFunctions",
   textVersion = paste(
-
+"Feldhege, J. (2020). convenienceFunctions: A Collection of convenience functions. URL: https://github.com/jfeldhege/convenienceFunctions"
   )
 )
